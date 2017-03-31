@@ -1,0 +1,15 @@
+{
+  "name": "fuzzer",
+  "version": "1.0.0",
+  "description": "generates inputs to test server routes",
+  "main": "Fuzz.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Fuzzer.js"
+  },
+  "author": "David Bisrat",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
